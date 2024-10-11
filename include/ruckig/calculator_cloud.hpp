@@ -9,7 +9,8 @@
 #include <tuple>
 #include <vector>
 
-#include <nlohmann/json.hpp>
+//#include <nlohmann/json.hpp>
+#include "json.hpp"
 
 #include <ruckig/error.hpp>
 #include <ruckig/input_parameter.hpp>
